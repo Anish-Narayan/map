@@ -5,27 +5,27 @@
   "steps": [
     {
       "text": "Exit the Library Block Conference Hall",
-      "image": "https://images.unsplash.com/photo-1592179900431-1e021ea53b28?auto=format&fit=crop&q=80&w=400",
+      "image": "1.jpg",
       "type": "EXIT"
     },
     {
       "text": "Move towards the left side of the corridor",
-      "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?auto=format&fit=crop&q=80&w=400",
+      "image": "2.jpg",
       "type": "TURN_LEFT"
     },
     {
       "text": "Turn left near the blue shed and walk past it",
-      "image": "https://images.unsplash.com/photo-1523213139764-1662495d0342?auto=format&fit=crop&q=80&w=400",
+      "image": "3.jpg",
       "type": "SIGHT"
     },
     {
       "text": "When you reach the road, turn left",
-      "image": "https://images.unsplash.com/photo-1502444330042-d1a1ddf9bb5b?auto=format&fit=crop&q=80&w=400",
+      "image": "4.jpg",
       "type": "ROAD"
     },
     {
       "text": "Destination ahead: New M.Sc. Building",
-      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=400",
+      "image": "5.jpg",
       "type": "ARRIVE"
     }
   ]
