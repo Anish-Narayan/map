@@ -9,7 +9,7 @@
       "type": "EXIT"
     },
     {
-      "text": "Move towards the left side of the corridor",
+      "text": "Turn left and walk straight",
       "image": "2.jpg",
       "type": "TURN_LEFT"
     },
